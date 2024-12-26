@@ -13,6 +13,7 @@ Route::get('/register', [AuthController::class, 'registerForm'])->name('register
 
 Route::post('/register', [AuthController::class, 'register'])->name('register');
 
+Route::post('/sharePost', [AuthController::class, 'register'])->name('register');
 
 Route::post('/login', [AuthController::class, 'login'])->name('auth.login');
 

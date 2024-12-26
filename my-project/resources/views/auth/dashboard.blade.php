@@ -15,7 +15,7 @@
         <div class="w-64 bg-gray-800 shadow-md">
             <div class="p-6">
                 <a href="">
-                    <h1 class="text-lg font-bold text-white text-center">Post Share</h1>
+                    <h1 class="text-lg font-bold text-white text-center">  AYBook</h1>
                 </a>
             </div>
             <nav class="mt-6">

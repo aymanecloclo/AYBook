@@ -14,7 +14,7 @@
                 <!-- Left Side -->
                 <div class="flex-shrink-0">
                     <a href="#" class="text-lg font-bold text-blue-600">
-                        Post Share
+                        AYBook
                     </a>
                 </div>
                 <!-- Right Side (Profile Dropdown) -->
